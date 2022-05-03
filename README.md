@@ -1,5 +1,8 @@
 ### Olá, eu sou o Joao Pedro Muniz Nascimento 👋
 
+- ✅ Estou trabalhando com Front-End e Back-end
+- ✅ Estou aprendendo PHP, SQL e Javascript.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/joaopedromuniz/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.nascimentoo/)
 
