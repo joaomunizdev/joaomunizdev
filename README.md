@@ -1,14 +1,14 @@
-# 👋 Olá, eu sou o **João Pedro Muniz Nascimento**
+# Olá, eu sou o **João Pedro Muniz Nascimento**
 
-- 🎓 Estudante de Ciência da Computação  
-- 💻 Desenvolvedor Full-Stack (Front-End + Back-End) e DevOps  
-- 🌍 Localização: Rio de Janeiro, RJ, Brasil  
-- 📫 Conectar comigo:  
+- Ciêntista da Computação  
+- Desenvolvedor Full-Stack (Front-End + Back-End) e DevOps  
+- Localização: Rio de Janeiro, RJ, Brasil  
+- Conectar comigo:  
   [LinkedIn](https://www.linkedin.com/in/joaopedromuniz/)
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 Aqui estão algumas das principais tecnologias e ferramentas que uso no meu dia a dia profissional:
 
