@@ -1,15 +1,59 @@
-### Hello, I'm Joao Pedro Muniz Nascimento 👋
+# 👋 Olá, eu sou o **João Pedro Muniz Nascimento**
 
-- ✅ I'm working with Front-End and Back-end and Devops
-- ✅ I have experience with application development with PHP, SQL, Javascript, Laravel, AdonisJS, Typescript, Python, FastAPI, relational and non-relational databases, Ngninx and Apache server configuration, Linux and Windows server configuration, among other technologies.
+- 🎓 Estudante de Ciência da Computação  
+- 💻 Desenvolvedor Full-Stack (Front-End + Back-End) e DevOps  
+- 🌍 Localização: Rio de Janeiro, RJ, Brasil  
+- 📫 Conectar comigo:  
+  [LinkedIn](https://www.linkedin.com/in/joaopedromuniz/)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/joaopedromuniz/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.nascimentoo/)
+---
 
-<div>
-  <a href="https://github.com/joaomunizdev">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaomunizdev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomunizdev&layout=compact&langs_count=7&theme=merko"/>
-</div>
-  
-## I'm a Computer Science student and a developer always looking for new challenges. Proactive and committed, I am constantly focused on delivering effective solutions to the demands I receive.!!
+## 🛠️ Tecnologias & Ferramentas
+
+Aqui estão algumas das principais tecnologias e ferramentas que uso no meu dia a dia profissional:
+
+- **Back-End / API**: PHP, Laravel, AdonisJS, Python, FastAPI  
+- **Front-End**: JavaScript, TypeScript, ReactJs, Vue.js, Next.js, Vuetify
+- **Banco de Dados**: Relacional e Não Relacional (SQL / NoSQL)  
+- **DevOps / Infraestrutura**: Nginx, Apache, Linux, Windows, Docker (se aplicável)  
+- **Outros**: Git, CI/CD (se você configura pipelines), entre outros  
+
+---
+
+## Sobre Mim
+
+Sou proativo, comprometido e sempre buscando novas formas de entregar soluções eficazes. Tenho experiência em desenvolver aplicações completas (front-end e back-end), além de configurar e gerenciar infraestrutura de servidores (Linux, Windows, servidores web).
+
+Atualmente, estou me aprofundando nos seguintes temas:
+
+- Automação de infraestrutura / IaC  
+- Escalabilidade de aplicações  
+- Arquiteturas modernas (microserviços)  
+- Segurança (ex: boas práticas de segurança, configuração segura de servidores)
+
+---
+
+## Estatísticas & Contribuições
+
+![João Pedro’s GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomunizdev&show_icons=true&theme=merko&include_all_commits=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomunizdev&layout=compact&langs_count=7&theme=merko)
+
+---
+
+## Objetivos
+
+- Crescer como engenheiro de software e infraestrutura  
+- Contribuir para projetos open source relevantes  
+- Continuar aprendendo sobre automação, DevOps e arquitetura distribuída  
+- Trabalhar em projetos que tenham impacto positivo para empresas e pessoas
+
+---
+
+## Contato
+
+Se quiser bater um papo, trocar ideias sobre projetos técnicos ou oportunidades:
+
+- **LinkedIn**: [João Pedro Muniz Nascimento](https://www.linkedin.com/in/joaopedromuniz/)  
+- **E-mail**: jpedro747.jp@gmai.com
+
+---
